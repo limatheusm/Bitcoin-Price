@@ -1,2 +1,4 @@
 # Bitcoin-Price
-Ios app to view bitcoin price
+### Ios app to see the current bitcoin price
+
+![Screen Shot](/screenshot.png)
